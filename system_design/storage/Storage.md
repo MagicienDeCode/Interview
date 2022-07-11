@@ -16,7 +16,10 @@ NOT** support SET/LIST  | big company use as Key-Value bottom layer  |   |   |
 # QPS Query Per Second
 
 - 1 K QPS : one web server , one SQL database
-- 10 K Qps : one NoSQL, MongoDB, Cassandra
+- 10 K QPS : one NoSQL, MongoDB, Cassandra
 - 1M QPS : Redis, Memcached
 
 # Video
+[Youtube](https://www.youtube.com/watch?v=mWW-T2oHN7E)
+[bilibili](https://www.bilibili.com/video/BV1sr4y1E7Xt/)
+[ixigua](https://www.ixigua.com/i7118758207765512717/)
