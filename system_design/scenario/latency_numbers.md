@@ -20,3 +20,8 @@
 |  Read 1MB sequentially from network  |  10 000 000 ns = 10 ms | █ █ █ █ █ █ █ █ █ █   |
 | Read 1MB sequentially from disk  | 30 000 000 ns = 30 ms  | █ █ █ █ █ █ █ █ █ █ x 3   |
 | Round packet CA->Netherlands->CA  | 150 000 000 ns = 150 ms  | █ █ █ █ █ █ █ █ █ █  x 15  |
+
+# Video
+[Youtube](https://www.youtube.com/watch?v=52o6PoTAPTU)
+[bilibili](https://www.bilibili.com/video/BV1sS4y1J7jr/)
+[ixigua](https://www.ixigua.com/i7120641473179025933/)
