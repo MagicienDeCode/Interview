@@ -1,7 +1,7 @@
 # Latency numbers every programmer should know
 
-- 1 s = 1 000 ms
-- 1 ms = 1 000 000 ns
+- 1 s = 1 000 ms 
+- 1 m = 1 000 µs = 1 000 000 ns
 
 | **Operation Name**  | **Time**  |   | 
 |---|---|---|
