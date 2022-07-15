@@ -39,5 +39,5 @@
 | 2**10 ~= 1 000 | 1 Thousand | 1 Kilobyte | 1 KB |
 |  2**20 ~= 1 000 000 |  1 Million  | 1 Megabyte  | 1 MB  |
 | 2**30 ~= 1 000 000 000  |  1 Billion  | 1 Gigabyte  | 1 GB  |
-|  2**40 ~= 10**12 |  1 Trillion  |  1 Terabyte | 1 TB  |
-|  2**50 ~= 10**15 |  1 Quadrillion  | 1 Petabyte  | 1 PB  |
+|  2**40 ~= 1 000 000 000 000|  1 Trillion  |  1 Terabyte | 1 TB  |
+|  2**50 ~= 1 000 000 000 000 000 |  1 Quadrillion  | 1 Petabyte  | 1 PB  |
